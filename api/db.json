@@ -15,13 +15,13 @@
     {
       "id": 3,
       "title": "Cidade 1",
-      "url": "https://via.placeholder.com/300x200?text=Cidade 1",
+      "url": "https://via.placeholder.com/300x200?text=Cidade+1",
       "description": "Um panorama urbano vibrante."
     },
     {
       "id": 3,
       "title": "Cidade 2",
-      "url": "https://via.placeholder.com/300x200?text=Cidade 2",
+      "url": "https://via.placeholder.com/300x200?text=Cidade+2",
       "description": "Um panorama urbano cinza."
     }
   ]
